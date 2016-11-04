@@ -1,0 +1,10 @@
+@import url("http://fonts.googleapis.com/css?family=Lato:100");
+
+* {margin: 0; padding: 0;}
+
+html, body {height: 100%;}
+
+#clock {
+	color: white; font: 80px/80px Lato; height: 80px;
+	text-align: center;
+	margin-top: 50%
